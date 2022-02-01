@@ -45,6 +45,7 @@ dependencies:
   flutter_carousel_widget: ^0.1.4
   share_plus: ^3.0.4
   url_launcher: ^6.0.12
+  connectivity_plus: ^2.2.0
 
 
 dev_dependencies:
