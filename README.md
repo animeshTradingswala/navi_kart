@@ -1,16 +1,20 @@
-# navi_kart
+# Mystery Trunk made with Flutter
 
-A new Flutter project.
+### Landing Page
+![Screenshot_1643720751](https://user-images.githubusercontent.com/91061153/151973895-a2d3f4b8-dc4e-4f8a-a4ce-70ea82ebc9ce.png)
 
-## Getting Started
+### Login Page
+![Screenshot_1643720746](https://user-images.githubusercontent.com/91061153/151973951-2dd31d2a-cb4a-499d-be12-de41bf673f0f.png)
 
-This project is a starting point for a Flutter application.
+### Dashboard Page
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot_1643720761](https://user-images.githubusercontent.com/91061153/151974010-411c6af6-2803-4565-99f8-23a7af9d99eb.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Search Page
+![Screenshot_1643720777](https://user-images.githubusercontent.com/91061153/151974047-a2ddf113-d277-4d18-a6de-0cd6256dc42e.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Cart Page
+![Screenshot_1643720792](https://user-images.githubusercontent.com/91061153/151974141-c6637145-64f4-4da2-8da7-c86f92c1ea99.png)
+
+### Payment Page
+![Screenshot_1643720795](https://user-images.githubusercontent.com/91061153/151974180-4f5d19d2-2aab-48e3-9e75-a46ead28dd39.png)
