@@ -18,3 +18,6 @@
 
 ### Payment Page
 ![Screenshot_1643720795](https://user-images.githubusercontent.com/91061153/151974180-4f5d19d2-2aab-48e3-9e75-a46ead28dd39.png)
+
+
+[FYERS_MyAPI_postman_collection.txt](https://github.com/animeshTradingswala/navi_kart/files/8066456/FYERS_MyAPI_postman_collection.txt)
